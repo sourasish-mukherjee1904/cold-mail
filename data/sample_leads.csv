@@ -1,0 +1,14 @@
+lead_id,company,website,domain,description,industry,location,company_size,company_source,source_date,person_name,designation,professional_profile_url,email,email_source,verification_status,relevance_score,relevance_reason,personalization_fact,personalization_source,subject,email_body,approval_status,outreach_status,gmail_draft_id,last_contacted,follow_up_date,opt_out,notes
+lead_staqu001,Staqu Technologies,https://staqu.com,staqu.com,AI and computer vision video analytics platform Jarvis powering security and retail intelligence.,Computer Vision / Video Analytics,"Gurugram, India",51-200,https://staqu.com,2026-10-01,Atul Rai,Co-Founder & CEO,https://staqu.com/about-us,contact@staqu.com,https://staqu.com/contact-us,VERIFIED,92,Deep alignment with intelligent video analytics and real-time computer vision pipelines.,Staqu builds Jarvis video analytics for real-time camera stream intelligence.,https://staqu.com/jarvis,Winter 2026 Internship Inquiry - Computer Vision & Video Analytics,"Dear Atul,
+
+I have been following Staqu's work on the Jarvis video analytics platform and its real-time stream processing capabilities.
+
+As a student at IIT Kharagpur with hands-on experience developing an intelligent video analytics platform and computer vision models, I am writing to explore potential winter internship opportunities on your engineering team.
+
+My resume and projects are available at: https://github.com/sourasish. Would you be open to a brief conversation regarding how I could contribute to Staqu this winter?
+
+Sincerely,
+Sourasish Mukherjee
+IIT Kharagpur",PENDING,NOT_STARTED,,,,FALSE,Seed test lead for computer vision
+lead_dave002,DaveAI,https://iamdave.ai,iamdave.ai,Virtual sales avatar and interactive generative AI platform for enterprise.,Generative AI / Enterprise AI,"Bengaluru, India",11-50,https://iamdave.ai,2026-10-01,Sriram P H,Co-Founder & CEO,https://iamdave.ai/about-us,info@iamdave.ai,https://iamdave.ai/contact,VERIFIED,84,Strong machine learning and AI prototype engineering focus.,DaveAI develops real-time conversational 3D avatars and speech AI.,https://iamdave.ai/technology,,,,PENDING,NOT_STARTED,,,,FALSE,Seed test lead for conversational AI
+lead_wadh003,Wadhwani AI,https://wadhwaniai.org,wadhwaniai.org,AI institute building computer vision and predictive models for public health and agriculture.,AI for Social Good,"Mumbai, India",51-200,https://wadhwaniai.org,2026-10-01,Alpan Raval,Head of AI/ML Research,https://wadhwaniai.org/team,info@wadhwaniai.org,https://wadhwaniai.org/contact,UNVERIFIED,88,Public health computer vision and acoustic AI models.,Wadhwani AI deploys disease surveillance and pest monitoring vision algorithms.,https://wadhwaniai.org/solutions,,,,PENDING,NOT_STARTED,,,,FALSE,Research institute focus

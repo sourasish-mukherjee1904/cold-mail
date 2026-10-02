@@ -1,0 +1,48 @@
+lead_id,company,website,domain,description,industry,location,company_size,company_source,source_date,person_name,designation,professional_profile_url,email,email_source,verification_status,relevance_score,relevance_reason,personalization_fact,personalization_source,subject,email_body,approval_status,outreach_status,gmail_draft_id,last_contacted,follow_up_date,opt_out,notes
+lead_83b2989d1c7b,Vision Labs India,https://visionlabs.in,visionlabs.in,,,,,,2026-10-02,,,,contact@visionlabs.in,,VERIFIED,62,+30 Tech: Computer Vision & Video Analytics | +5 Project Match: General software prototype building | +0 Role: No contact identified | +15 Email: Deliverable & VERIFIED | +10 Fact: Dedicated sourced personalization fact available | +2 Inquiry: Polite exploratory inquiry (no advertised vacancy),Vision Labs India's work in software and technology,https://visionlabs.in,Winter 2026 Internship Inquiry - Computer Vision & Video Analytics - Sourasish Mukherjee,"Dear Vision Labs India Team,
+
+I have been following Vision Labs India's work on Vision Labs India's work in software and technology. As an undergraduate at IIT Kharagpur (Manufacturing Science and Engineering), I have developed an intelligent video analytics platform focusing on real-time stream processing, computer vision pipelines, and practical model deployment in Python and C++.
+
+I am writing to explore potential winter internship opportunities (Dec 2026 – Jan 2026) where I could contribute to your engineering or AI initiatives.
+
+You can review my code and projects here: GitHub: https://github.com/sourasish
+
+Would you be open to a brief introductory conversation regarding how I might add value to Vision Labs India this winter?
+
+Sincerely,
+Sourasish Mukherjee
+IIT Kharagpur",PENDING,NOT_STARTED,,,,FALSE,Manually added test lead
+lead_test123,Staqu Tech,https://staqu.com,staqu.com,,,,,,2026-10-02,,,,atul@staqu.com,,VERIFIED,32,+10 Tech: General Software Engineering | +5 Project Match: General software prototype building | +0 Role: No contact identified | +15 Email: Deliverable & VERIFIED | +0 Fact: Minimal company product information | +2 Inquiry: Polite exploratory inquiry (no advertised vacancy),Staqu Tech's work in software and technology,https://staqu.com,Winter 2026 Engineering Internship Inquiry - Sourasish Mukherjee,"Dear Staqu Tech Team,
+
+I have been following Staqu Tech's work in Staqu Tech's work in software and technology. As an undergraduate at IIT Kharagpur, I have built practical machine learning applications, video analytics pipelines, and backend software services.
+
+I am writing to explore potential winter internship opportunities (Dec 2026 – Jan 2026) where I could contribute to your engineering or AI initiatives.
+
+You can review my code and projects here: GitHub: https://github.com/sourasish
+
+Would you be open to a brief introductory conversation regarding how I might add value to Staqu Tech this winter?
+
+Sincerely,
+Sourasish Mukherjee
+IIT Kharagpur",APPROVED,DRAFT_CREATED,gmail_draft_abc98765,,,FALSE,
+lead_batch_valid,Valid Tech,,,,,,,,2026-10-02,,,,founder@valid.com,,VERIFIED,32,+10 Tech: General Software Engineering | +5 Project Match: General software prototype building | +0 Role: No contact identified | +15 Email: Deliverable & VERIFIED | +0 Fact: Minimal company product information | +2 Inquiry: Polite exploratory inquiry (no advertised vacancy),Valid Tech's work in software and technology,,Winter 2026 Engineering Internship Inquiry - Sourasish Mukherjee,"Dear Valid Tech Team,
+
+I have been following Valid Tech's work in Valid Tech's work in software and technology. As an undergraduate at IIT Kharagpur, I have built practical machine learning applications, video analytics pipelines, and backend software services.
+
+I am writing to explore potential winter internship opportunities (Dec 2026 – Jan 2026) where I could contribute to your engineering or AI initiatives.
+
+You can review my code and projects here: GitHub: https://github.com/sourasish
+
+Would you be open to a brief introductory conversation regarding how I might add value to Valid Tech this winter?
+
+Sincerely,
+Sourasish Mukherjee
+IIT Kharagpur",APPROVED,DRAFT_CREATED,batch_draft_111,,,FALSE,
+lead_bd796498b407,CynLr (Cybernetics Laboratory),https://cynlr.com,cynlr.com,Deep-tech robotics startup building visual cognition systems and object-manipulation robots.,Robotics & Industrial AI,"Bengaluru, Karnataka",11-50,https://cynlr.com,2026-10-02,Gokul N A,Founder & Design Lead,https://cynlr.com,contact@cynlr.com,https://cynlr.com/contact,VERIFIED,0,,,,,,PENDING,NOT_STARTED,,,,FALSE,"Discovered via seed directory. Tech: Robotics, Visual Cognition, Machine Vision, Reinforcement Learning"
+lead_b3bff4e82a1a,DaveAI,https://iamdave.ai,iamdave.ai,Interactive artificial intelligence platform building 3D virtual avatars and conversational AI for enterprise.,Generative AI / Enterprise AI,"Bengaluru, Karnataka",11-50,https://iamdave.ai/about-us,2026-10-02,Sriram P H,Co-Founder & CEO,https://iamdave.ai/about-us,info@iamdave.ai,https://iamdave.ai/contact,VERIFIED,0,,,,,,PENDING,NOT_STARTED,,,,FALSE,"Discovered via seed directory. Tech: Generative AI, 3D Avatars, Conversational AI, Speech AI"
+lead_a653b33935cc,Detect Technologies,https://detecttechnologies.com,detecttechnologies.com,Industrial AI and automated computer vision for workplace safety and asset monitoring in real time.,Computer Vision / Industrial AI,"Chennai, Tamil Nadu",201-500,https://detecttechnologies.com,2026-10-02,Daniel Raj David,Co-Founder & CEO,https://detecttechnologies.com/company,info@detecttechnologies.com,https://detecttechnologies.com/contact,VERIFIED,0,,,,,,PENDING,NOT_STARTED,,,,FALSE,"Discovered via seed directory. Tech: Computer Vision, Drone Video Analytics, Industrial IoT, Deep Learning"
+lead_131c40a8801c,Devtron,https://devtron.ai,devtron.ai,Open-source Kubernetes deployment and CI/CD delivery platform for enterprise cloud microservices.,Developer Tools & SaaS,"Gurugram, Haryana / Remote",51-200,https://devtron.ai,2026-10-02,Prashant Ghildiyal,Co-Founder & CEO,https://devtron.ai,info@devtron.ai,https://devtron.ai,UNVERIFIED,0,,,,,,PENDING,NOT_STARTED,,,,FALSE,"Discovered via seed directory. Tech: Kubernetes, DevOps, Backend Infrastructure, Go / Python"
+lead_9d0eeeee3e5d,Sarvam AI,https://sarvam.ai,sarvam.ai,Generative AI foundation models and voice AI infrastructure designed for Indian languages and enterprise systems.,Generative AI / Foundation Models,"Bengaluru, Karnataka",11-50,https://sarvam.ai,2026-10-02,Pratyush Kumar,Co-Founder,https://sarvam.ai,contact@sarvam.ai,https://sarvam.ai,UNVERIFIED,0,,,,,,PENDING,NOT_STARTED,,,,FALSE,"Discovered via seed directory. Tech: Generative AI, LLMs, Speech Recognition, Indic NLP"
+lead_f3b3acd2ce0d,SigNoz,https://signoz.io,signoz.io,"Open-source developer observability platform built on OpenTelemetry for tracing, metrics, and logs.",Developer Tools & SaaS,"Bengaluru, Karnataka / Remote",11-50,https://signoz.io,2026-10-02,Pranay Prateek,Co-Founder,https://github.com/SigNoz,pranay@signoz.io,https://signoz.io/about,UNVERIFIED,0,,,,,,PENDING,NOT_STARTED,,,,FALSE,"Discovered via seed directory. Tech: Backend Engineering, OpenTelemetry, ClickHouse, Go / Python"
+lead_905330472dfc,Staqu Technologies,https://staqu.com,staqu.com,"AI and computer vision video analytics platform (Jarvis) powering security, retail, and smart city infrastructure.",Computer Vision / Video Analytics,"Gurugram, Haryana",51-200,https://staqu.com/about-us,2026-10-02,Atul Rai,Co-Founder & CEO,https://staqu.com/about-us,contact@staqu.com,https://staqu.com/contact-us,VERIFIED,0,,,,,,APPROVED,NOT_STARTED,,,,FALSE,"Discovered via seed directory. Tech: Computer Vision, Intelligent Video Analytics, Deep Learning, Edge AI"
+lead_842c3c42ef33,Wadhwani AI,https://wadhwaniai.org,wadhwaniai.org,Applied AI institute building computer vision and diagnostic models for healthcare and agriculture.,Computer Vision / AI for Social Good,"Mumbai, Maharashtra",51-200,https://wadhwaniai.org,2026-10-02,Alpan Raval,Head of AI/ML Research,https://wadhwaniai.org/team,info@wadhwaniai.org,https://wadhwaniai.org/contact,UNVERIFIED,0,,,,,,PENDING,NOT_STARTED,,,,FALSE,"Discovered via seed directory. Tech: Computer Vision, Medical Imaging, Acoustic AI, Predictive Modeling"
